@@ -1,4 +1,4 @@
-# shell-essentials
+# Shell Essentials
 Some essential things for those who use shell in their everyday routine
 
 ## fuck.sh

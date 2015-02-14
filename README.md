@@ -27,7 +27,7 @@ To push the current branch and set the remote as upstream, use
 
 There is a typical situation to call `fuck` to the rescue.
 
-The `fuck` command with just five keyboard hits will check your command history takes last command, call it again, analyze the error and call `git push --set-upstream origin feature-some` for you.
+The `fuck` command with just five keyboard hits will check your command history, takes last command, call it again, analyze the error and call `git push --set-upstream origin feature-some` for you.
 
 ## Contribute
 

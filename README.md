@@ -6,6 +6,8 @@ The `fuck.sh` script provides ability to call `fuck` command when some common er
 
 In those situations you just type `fuck` and the last command will run appropriately.
 
+The `fuck` command with just five keyboard hits will check your command history, takes last command, call it again, analyze the error and call fixed command for you.
+
 ### Supported fixes
 
 `git push`
@@ -27,7 +29,7 @@ To push the current branch and set the remote as upstream, use
 
 There is a typical situation to call `fuck` to the rescue.
 
-The `fuck` command with just five keyboard hits will check your command history, takes last command, call it again, analyze the error and call `git push --set-upstream origin feature-some` for you.
+The fix command will be: `git push --set-upstream origin feature-some` .
 
 ## Contribute
 
